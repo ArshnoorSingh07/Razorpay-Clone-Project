@@ -36,6 +36,7 @@
     "escalade": "^3.2.0",
     "fast-glob": "^3.3.3",
     "fastq": "^1.19.1",
+    "feather": "^0.0.5",
     "fill-range": "^7.1.1",
     "foreground-child": "^3.3.1",
     "fraction.js": "^4.3.7",
