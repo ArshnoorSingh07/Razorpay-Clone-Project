@@ -49,7 +49,7 @@ This is a responsive Razorpay landing page clone built using **HTML**, **Tailwin
 
 ```bash 
 git clone https://github.com/ArshnoorSingh07/Razorpay-Clone-Project.git
-cd razorpay-clone-tailwind
+cd Razorpay-Clone-Project
 ```
 
 ### 2. Install dependencies
