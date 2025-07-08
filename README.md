@@ -100,3 +100,10 @@ Open `index.html` in your browser to view the live version.
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## ✍️ Author
+
+**Arshnoor Singh**  
+[GitHub Profile](https://github.com/ArshnoorSingh07/)
