@@ -4,7 +4,7 @@ This is a responsive Razorpay landing page clone built using **HTML**, **Tailwin
 
 ---
 
-## 🚀 Features
+## Features
 
 - Responsive layout for different screen sizes  
 - Navbar with dropdown indicators  
@@ -17,7 +17,7 @@ This is a responsive Razorpay landing page clone built using **HTML**, **Tailwin
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - HTML5  
 - Tailwind CSS (v3+)  
@@ -26,7 +26,7 @@ This is a responsive Razorpay landing page clone built using **HTML**, **Tailwin
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -43,7 +43,7 @@ This is a responsive Razorpay landing page clone built using **HTML**, **Tailwin
 
 ---
 
-## 🧰 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
@@ -72,38 +72,38 @@ Open `index.html` in your browser to view the live version.
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
-### 🏠 Homepage
+### Homepage
 ![Homepage](./screenshots/Homepage.png)
 
-### ✨ Features Section
+### Features Section
 ![Features](./screenshots/Feature1.png)
 ![Features](./screenshots/Feature2.png)
 
-### 📄 Testimonial and CTA Section
+### Testimonial and CTA Section
 ![Testimonial](./screenshots/Join%20razorpay%20Section.png)
 ![CTA](./screenshots/CTA.png)
 
-### 📄 Footer Section
+### Footer Section
 ![Footer](./screenshots/Footer.png)
 
 ---
 
-## 📌 Notes
+## Notes
 
 - This project is built purely for educational and portfolio purposes.  
 - All trademarks, logos, and brand assets belong to Razorpay.  
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## ✍️ Author
+## Author
 
 **Arshnoor Singh**  
 [GitHub Profile](https://github.com/ArshnoorSingh07/)
