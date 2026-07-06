@@ -1,109 +1,168 @@
 # Razorpay Clone (Tailwind CSS)
 
-This is a responsive Razorpay landing page clone built using **HTML**, **Tailwind CSS**, and **JavaScript**. The objective of this project is to replicate the user interface and layout of Razorpay’s official homepage, showcasing modern UI design techniques and Tailwind utility classes.
+A fully responsive Razorpay Landing Page Clone built using **HTML5**, **Tailwind CSS**, and **JavaScript**. This project recreates the user interface of the official Razorpay homepage while following modern UI/UX principles and responsive web design practices.
+
+The primary objective of this project is to strengthen frontend development skills by implementing a real-world landing page using Tailwind CSS and utility-first styling.
+
+---
+
+## Live Demo
+
+**Website:**  
+https://razorpay-clone-project-kappa.vercel.app/
 
 ---
 
 ## Features
 
-- Responsive layout for different screen sizes  
-- Navbar with dropdown indicators  
-- Hero section with call-to-action  
-- Multiple feature sections showcasing Razorpay services  
-- Tailwind CSS-based animations and hover effects  
-- Custom gradient backgrounds and illustrations  
-- Feather icons integration  
-- Fully mobile-first and utility-driven CSS  
+- Fully responsive design for desktop, tablet, and mobile devices
+- Modern Razorpay-inspired landing page UI
+- Responsive navigation bar
+- Hero section with call-to-action buttons
+- Multiple feature and product sections
+- Utility-first styling with Tailwind CSS
+- Interactive hover effects and smooth transitions
+- Gradient backgrounds and custom layouts
+- Feather Icons integration
+- Optimized assets for improved performance
 
 ---
 
 ## Technologies Used
 
-- HTML5  
-- Tailwind CSS (v3+)  
-- PostCSS  
-- JavaScript (Feather Icons)  
+- HTML5
+- Tailwind CSS
+- JavaScript
+- PostCSS
+- Vite
 
 ---
 
 ## Project Structure
 
-```
+```text
 .
-├── images/               # All static images and icons
-├── node_modules/         # Node dependencies
-├── screenshots/          # screenshots of webpage
-├── index.html            # Main HTML page
-├── main.css              # Tailwind-processed CSS
-├── postcss.config.js     # PostCSS config for Tailwind
-├── tailwind.config.js    # Tailwind CSS config file
-├── package.json          # Project metadata and dependencies
-└── README.md             # Project documentation
+├── assets/                 # Images and static assets
+├── screenshots/            # Project screenshots
+├── index.html              # Main HTML file
+├── main.css                # Tailwind CSS entry file
+├── package.json            # Project dependencies
+├── package-lock.json
+├── postcss.config.js       # PostCSS configuration
+├── tailwind.config.js      # Tailwind CSS configuration
+└── README.md
 ```
 
 ---
 
 ## Getting Started
 
-### 1. Clone the repository
+### Clone the Repository
 
-```bash 
+```bash
 git clone https://github.com/ArshnoorSingh07/Razorpay-Clone-Project.git
+```
+
+Navigate to the project directory.
+
+```bash
 cd Razorpay-Clone-Project
 ```
 
-### 2. Install dependencies
+---
 
-Make sure Node.js is installed on your system, then run:
+### Install Dependencies
 
 ```bash
 npm install
 ```
 
-### 3. Start Tailwind watcher
+---
 
-To compile Tailwind CSS and watch for changes:
+### Start the Development Server
 
 ```bash
-npx tailwindcss -i ./main.css -o ./dist/output.css --watch
+npm run dev
 ```
 
-Open `index.html` in your browser to view the live version.
+Open your browser and visit:
+
+```
+http://localhost:5173
+```
+
+---
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+### Preview the Production Build
+
+```bash
+npm run preview
+```
 
 ---
 
 ## Screenshots
 
 ### Homepage
+
 ![Homepage](./screenshots/Homepage.png)
 
-### Features Section
-![Features](./screenshots/Feature1.png)
-![Features](./screenshots/Feature2.png)
+### Features
 
-### Testimonial and CTA Section
+![Feature 1](./screenshots/Feature1.png)
+
+![Feature 2](./screenshots/Feature2.png)
+
+### Testimonial & CTA
+
 ![Testimonial](./screenshots/Join%20razorpay%20Section.png)
+
 ![CTA](./screenshots/CTA.png)
 
-### Footer Section
+### Footer
+
 ![Footer](./screenshots/Footer.png)
 
 ---
 
-## Notes
+## Learning Outcomes
 
-- This project is built purely for educational and portfolio purposes.  
-- All trademarks, logos, and brand assets belong to Razorpay.  
+This project helped strengthen my understanding of:
+
+- Responsive Web Design
+- Tailwind CSS Utility Classes
+- Mobile-First Development
+- Modern Landing Page Design
+- Frontend Project Organization
+- UI Consistency and Layout Design
+- Vite Development Workflow
+
+---
+
+## Disclaimer
+
+This project has been developed solely for educational and portfolio purposes.
+
+All trademarks, logos, images, and brand assets belong to Razorpay. No copyright infringement is intended.
 
 ---
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
 ---
 
 ## Author
 
-**Arshnoor Singh**  
-[GitHub Profile](https://github.com/ArshnoorSingh07/)
+**Arshnoor Singh**
+
+GitHub: https://github.com/ArshnoorSingh07
